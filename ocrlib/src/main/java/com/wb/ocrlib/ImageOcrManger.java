@@ -18,7 +18,6 @@ public class ImageOcrManger {
         }
         return imageOcrManger;
     }
-
     public void getStringByImage(ImageConfig imageConfig){
         if(imageConfig==null){
            Log.e("imageConfig","imageConfig is not null");

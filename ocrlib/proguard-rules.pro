@@ -21,3 +21,4 @@
 #-renamesourcefileattribute SourceFile
 -keep class com.shouzhong.idcard2.IdCard2Utils{*;}
 -keep class com.shouzhong.scanner.ScannerUtils{*;}
+-keep class com.shouzhong.idcard.IdCardUtils{*;}
